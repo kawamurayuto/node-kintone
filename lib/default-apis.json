@@ -3,6 +3,7 @@
     "app/acl/get": { "link": "apis/app/acl/get.json" },
     "app/acl/put": { "link": "apis/app/acl/put.json" },
     "app/customize/get": { "link": "apis/app/customize/get.json" },
+    "app/customize/put": { "link": "apis/app/customize/put.json" },
     "app/form/fields/get": { "link": "apis/app/form/fields/get.json" },
     "app/form/layout/get": { "link": "apis/app/form/layout/get.json" },
     "app/get": { "link": "apis/app/get.json" },
